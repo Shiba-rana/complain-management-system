@@ -18,7 +18,6 @@ This is the Node.js backend for the Complaint Management System. It provides a R
     MONGO_URI=mongodb://127.0.0.1:27017/complaint_system
     JWT_SECRET=your_jwt_secret_key
     ```
-    _Note: Replace `your_jwt_secret_key` with a strong secret string._
 ## Running the Server
 Start the server with:
 ```bash
